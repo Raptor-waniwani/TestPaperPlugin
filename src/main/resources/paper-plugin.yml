@@ -1,0 +1,4 @@
+name: TestPaperPlugin
+version: '1.0-SNAPSHOT'
+main: com.github.raptorwaniwani.testPaperPlugin.TestPaperPlugin
+api-version: '1.21'
