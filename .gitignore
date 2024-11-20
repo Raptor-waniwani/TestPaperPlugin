@@ -107,7 +107,6 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-**/build/
 
 # Common working directory
 run/
