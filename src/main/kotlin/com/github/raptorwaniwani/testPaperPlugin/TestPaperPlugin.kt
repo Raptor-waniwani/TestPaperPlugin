@@ -2,10 +2,12 @@ package com.github.raptorwaniwani.testPaperPlugin
 
 import org.bukkit.plugin.java.JavaPlugin
 
+
 class TestPaperPlugin : JavaPlugin() {
 
     override fun onEnable() {
         // Plugin startup logic
+        println("Hello World")
     }
 
     override fun onDisable() {
