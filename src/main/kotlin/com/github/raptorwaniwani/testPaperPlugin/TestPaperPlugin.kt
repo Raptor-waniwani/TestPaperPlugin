@@ -6,6 +6,7 @@ class TestPaperPlugin : JavaPlugin() {
 
     override fun onEnable() {
         // Plugin startup logic
+        println("wani hoge")
     }
 
     override fun onDisable() {
