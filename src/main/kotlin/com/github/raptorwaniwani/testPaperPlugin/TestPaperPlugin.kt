@@ -23,7 +23,7 @@ object EventListener : Listener {
     @EventHandler
     fun onBreake(breakeE: BlockBreakEvent){
         var breaketext = Component.text("${breakeE.player.name}がBlockを破壊した。")
-        //コーポメントをインスタンス化
+        //コンポーメントをインスタンス化
         getServer().broadcast(breaketext)
     }
     @EventHandler
