@@ -38,3 +38,11 @@ tasks.processResources {
         expand(props)
     }
 }
+tasks.register("taskName") {
+println("welcome")
+    doLast {
+        println("hello")
+    }
+}
+
+
