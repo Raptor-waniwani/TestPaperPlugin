@@ -1,4 +1,4 @@
 name: TestPaperPlugin
 version: '1.0-SNAPSHOT'
-main: com.github.raptorwaniwani.testPaperPlugin.TestPaperPlugin
+main: com.github.raptorwaniwani.sneaksugarvaneharvest.SneakSugarCaneHarvest
 api-version: '1.21'
