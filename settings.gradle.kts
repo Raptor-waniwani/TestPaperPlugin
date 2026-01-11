@@ -1,1 +1,1 @@
-rootProject.name = "SneakSugarCaneHarvest"
+rootProject.name = "HarvestPlus"

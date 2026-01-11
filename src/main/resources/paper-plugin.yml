@@ -1,4 +1,4 @@
-name: TestPaperPlugin
+name: HarvestPlus
 version: '1.0-SNAPSHOT'
-main: com.github.raptorwaniwani.sneaksugarvaneharvest.SneakSugarCaneHarvest
+main: com.github.raptorwaniwani.harvestplus.HarvestPlus
 api-version: '1.21'
